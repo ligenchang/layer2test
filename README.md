@@ -5,7 +5,7 @@
 
 ```
 
-##example 
+## example 
 
 ```
 go run main.go -device en0 -filter "tcp"
